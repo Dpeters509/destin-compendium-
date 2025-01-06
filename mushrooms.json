@@ -1,1 +1,46 @@
-{}
+{
+    "title": "Mycology Science",
+    "sections": [
+        {
+            "id": "edible_mushrooms",
+            "title": "Edible Mushrooms",
+            "content": "Edible mushrooms provide nutrition and adaptogenic benefits for survival.",
+            "list": [
+                {
+                    "name": "Morels",
+                    "features": "Cone-shaped caps, honeycomb texture."
+                },
+                {
+                    "name": "Chanterelles",
+                    "features": "Bright yellow, trumpet-shaped."
+                },
+                {
+                    "name": "Lion's Mane",
+                    "features": "White, shaggy appearance, tastes like seafood."
+                }
+            ]
+        },
+        {
+            "id": "poisonous_mushrooms",
+            "title": "Poisonous Mushrooms",
+            "content": "Some mushrooms are deadly. Avoid them by recognizing their unique features.",
+            "list": [
+                {
+                    "name": "Death Cap",
+                    "toxins": "Amanitin",
+                    "features": "Greenish cap, white gills."
+                },
+                {
+                    "name": "Destroying Angel",
+                    "toxins": "Amanitin",
+                    "features": "All white, smooth cap."
+                },
+                {
+                    "name": "False Morel",
+                    "toxins": "Gyromitrin",
+                    "features": "Irregular, wrinkled cap."
+                }
+            ]
+        }
+    ]
+}

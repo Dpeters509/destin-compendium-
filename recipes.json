@@ -1,1 +1,35 @@
-{}
+{
+    "title": "Recipes",
+    "sections": [
+        {
+            "id": "cannabis_recipes",
+            "title": "Cannabis Recipes",
+            "content": "Create medicinal and edible cannabis products.",
+            "list": [
+                {
+                    "name": "Cannabis Tincture",
+                    "steps": "Decarb cannabis, mix with alcohol, let sit for 2 weeks."
+                },
+                {
+                    "name": "Cannabis Salve",
+                    "steps": "Infuse cannabis into oil, mix with beeswax."
+                }
+            ]
+        },
+        {
+            "id": "mushroom_recipes",
+            "title": "Mushroom Recipes",
+            "content": "Prepare mushrooms for food and medicine.",
+            "list": [
+                {
+                    "name": "Lion's Mane Soup",
+                    "steps": "Saute mushrooms, blend with cream and spices."
+                },
+                {
+                    "name": "Chanterelle Stir-Fry",
+                    "steps": "Cook with garlic, onions, and butter."
+                }
+            ]
+        }
+    ]
+}

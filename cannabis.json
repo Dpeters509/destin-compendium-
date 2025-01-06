@@ -1,1 +1,55 @@
-{}
+{
+    "title": "Cannabis Science",
+    "sections": [
+        {
+            "id": "cannabinoids",
+            "title": "Cannabinoids",
+            "content": "Cannabinoids are active compounds in cannabis that interact with the body's endocannabinoid system, affecting pain, mood, appetite, and more.",
+            "list": [
+                {
+                    "name": "THC",
+                    "description": "Psychoactive, pain relief, appetite stimulation."
+                },
+                {
+                    "name": "CBD",
+                    "description": "Non-psychoactive, anti-inflammatory, anti-anxiety."
+                },
+                {
+                    "name": "CBG",
+                    "description": "Precursor to THC and CBD, anti-inflammatory, neuroprotective."
+                },
+                {
+                    "name": "CBN",
+                    "description": "Formed as THC ages, promotes sleep, mild psychoactive effects."
+                }
+            ]
+        },
+        {
+            "id": "terpenes",
+            "title": "Terpenes",
+            "content": "Terpenes are aromatic compounds in cannabis that contribute to its scent, flavor, and effects.",
+            "list": [
+                {
+                    "name": "Myrcene",
+                    "effects": "Relaxing, sedative",
+                    "aroma": "Earthy, musky"
+                },
+                {
+                    "name": "Limonene",
+                    "effects": "Uplifting, mood-boosting",
+                    "aroma": "Citrus"
+                },
+                {
+                    "name": "Pinene",
+                    "effects": "Improves focus, anti-inflammatory",
+                    "aroma": "Pine"
+                },
+                {
+                    "name": "Linalool",
+                    "effects": "Calming, anti-depressant",
+                    "aroma": "Floral"
+                }
+            ]
+        }
+    ]
+}
